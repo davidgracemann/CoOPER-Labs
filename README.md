@@ -2,7 +2,7 @@
 Cognitive Operational &amp; Performance Enhancement Research Labs   -  Adult Neuroplasticity 
 
 ---
-> Disclaimer : Personal Research For Self Stimulation { Not Peer Reviewed }
+> Disclaimer : Personal Research { Not Peer Reviewed }
 
 ---
 
