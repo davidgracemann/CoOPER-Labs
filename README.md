@@ -1,16 +1,21 @@
 # CoOPER-Labs
-Cognitive Operational &amp; Performance Enhancement Research Labs   -  Adult Neuroplasticity 
+Cognitive Operational &amp; Performance Enhancement Research Labs
 
 ---
-> Disclaimer : Personal Research { Not Peer Reviewed }
 
+<img width="900" height="600" alt="image" src="https://github.com/davidgracemann/CoOPER-Labs/blob/main/MIT-Neural-Networks-01_0.gif" />
+
+---
+> Disclaimer : Private Research { Non Liable For Any Damage Upon Imitation }
 ---
 
 ### Mission : Deterministic Control Over Adult Neuroplasticity 
-- Activation
+
+- Activation 
 - Enhancement 
-- Prediction 
+- Prediction
 - Measurable & Functional Results
+- Cure Personal ADHD / ADD & Other Adverse Effects Of Neurodivergence
 
 ---
 
@@ -21,7 +26,7 @@ Cognitive Operational &amp; Performance Enhancement Research Labs   -  Adult Neu
 # Cognitive Functions by Family Classifications
 
 ## 1. Attention Family
-| Priority | Function Name | Scientific Name | Dependent On | Neurochemical Origin & Brain Regions | Neuroplasticity Enhancement Approach |
+| Priority | Function Name | Scientific Name | Dependent On | Neurochemical Origin & Brain Regions | Possible Neuroplasticity Enhancement Approach |
 |----------|---------------|-----------------|--------------|-------------------------------------|-------------------------------------|
 | 1 | Attention (Sustained) | Vigilance/Sustained Attention | Arousal, alertness | Locus coeruleus (NE) → PFC/Parietal; Basal forebrain (ACh) → Cortex | tDCS to LC/PFC + Cholinesterase inhibitors + Sustained attention training protocols |
 | 6 | Selective Attention | Attentio Selectiva | Sustained attention, inhibitory control | LC (NE) + VTA (DA) → FEF/TPJ; Thalamic gating | Theta-burst TMS to FEF + Noradrenergic modulators + Attention bias modification training |
